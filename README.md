@@ -10,9 +10,9 @@ Interact With The Visualization Here [HR Dashboard](https://public.tableau.com/v
 
 Tools Used In This Project <br />
 --
--Tableau
--VizQL
--Excel
--Figma
--Draw.io
+-Tableau <br />
+-VizQL <br />
+-Excel <br />
+-Figma <br />
+-Draw.io <br />
 
