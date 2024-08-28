@@ -1,5 +1,5 @@
 # Human_Resource_Dashboard 
-Compressive Human Resource Dashboard to gain insights on Human resources providing detailed employee records.
+Compressive Human Resource Dashboard Using Tableau to gain insights on Human resources providing detailed employee records.
 --
 
 Interact With The Visualization Here [GitHub Pages](https://pages.github.com/).
