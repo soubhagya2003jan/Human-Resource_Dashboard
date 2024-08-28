@@ -8,4 +8,10 @@ Interact With The Visualization Here [HR Dashboard](https://public.tableau.com/v
 
 ![employeedetails](https://github.com/user-attachments/assets/66884cb2-5e39-482b-b6b5-77567dccb4a9)
 
+Tools Used In This Project
+-Tableau
+-VizQL
+-Excel
+-Figma
+-Draw.io
 
