@@ -18,21 +18,21 @@ Tools Used In This Project <br />
 
 User Story - HR Dashboard
 --
-Overview
+1.Overview
 --
 The Section Provides High Level View of HR Metrics.
 
 The task involves displaying the total number of hired, active, and terminated employees, visualizing the annual trends of hired and terminated employees, and presenting a breakdown of employees by department and job titles. It also includes comparing the number of employees between the headquarters in New York and other branches, and showing the geographical distribution of employees by city and state.
 
-Demographics
+2.Demographics
 --
 The Demographics section shall offer insights into the composition of the workforce
 
-Present the gender ratio in the company.
-Visualize the distribution of employees across age groups and education levels.
-Show the total number of employees within each age group.
-Show the total number of employees within each education level.
-Present the correlation between employees’s educational backgrounds and their performance ratings.
+-Present the gender ratio in the company.<br />
+-Visualize the distribution of employees across age groups and education levels.<br />
+-Show the total number of employees within each age group.<br />
+-Show the total number of employees within each education level.<br />
+-Present the correlation between employees’s educational backgrounds and their performance ratings.<br />
 
 
 
