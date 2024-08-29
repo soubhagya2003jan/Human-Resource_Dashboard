@@ -54,19 +54,19 @@ Area Chart For the hired & Terminated. <br />
 Stacked Bar Chart For breakdown of employees by department. <br />
 Filled Map & Simple Bar Chart for distribution of employees by their Branch location and headquarters. <br />
 
-Demographics:
+Demographics: <br />
 Donut Chart for the distribution of employees by gender and the percentage of a particular gender out of all genders. <br />
 Bar Chart for education & age-group Distribution of employees. <br />
 Dot Plot/Scatter Plot for Education & Age,Education & Performance. <br />
 
-Income
+Income: <br />
 Dumbbell Chart/Dna Chart to represent Education and Employees by gender. <br />
 Scatter Plot For Age Vs Salary by Departments. <br />
 
-Employee Records
+Employee Records: <br />
 Table Providing a comprehensive analysis of employees branch,age,salary,departments,position and the numbers of years worked in the company. <br />
 
-Filters
+Filters: <br />
 Filters are provided at the top to filter records based on the gender,branch,status and location. <br />
 
 Summary
