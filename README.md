@@ -28,46 +28,46 @@ The task involves displaying the total number of hired, active, and terminated e
 --
 The Demographics section shall offer insights into the composition of the workforce
 
-•Present the gender ratio in the company.<br />
-•Visualize the distribution of employees across age groups and education levels.<br />
-•Show the total number of employees within each age group.<br />
-•Show the total number of employees within each education level.<br />
-•Present the correlation between employees’s educational backgrounds and their performance ratings.<br />
+• Present the gender ratio in the company.<br />
+• Visualize the distribution of employees across age groups and education levels.<br />
+• Show the total number of employees within each age group.<br />
+• Show the total number of employees within each education level.<br />
+• Present the correlation between employees’s educational backgrounds and their performance ratings.<br />
 
 3.Income
 --
 The income analysis section shall focus on salary-related metrics
 
-•Compare salaries across different education levels for both genders to identify any discrepancies or patterns.<br />
-•Present how the age correlate with the salary for employees in each department.<br />
+• Compare salaries across different education levels for both genders to identify any discrepancies or patterns.<br />
+• Present how the age correlate with the salary for employees in each department.<br />
 
 4.Employee Records View
 --
-Provide a comprehensive list of all employees with necessary information such as name, department, position, gender, age, education, and salary.
-Users should be able to filter the list based on any of the available columns.
+• Provide a comprehensive list of all employees with necessary information such as name, department, position, gender, age, education, and salary.
+• Users should be able to filter the list based on any of the available columns.
 
 KPI Used In The Project
 --
 Overview: <br />
-Card Visual For Active Employees. <br />
-Area Chart For the hired & Terminated. <br />
-Stacked Bar Chart For breakdown of employees by department. <br />
-Filled Map & Simple Bar Chart for distribution of employees by their Branch location and headquarters. <br />
+• Card Visual For Active Employees. <br />
+• Area Chart For the hired & Terminated. <br />
+• Stacked Bar Chart For breakdown of employees by department. <br />
+• Filled Map & Simple Bar Chart for distribution of employees by their Branch location and headquarters. <br />
 
 Demographics: <br />
-Donut Chart for the distribution of employees by gender and the percentage of a particular gender out of all genders. <br />
-Bar Chart for education & age-group Distribution of employees. <br />
-Dot Plot/Scatter Plot for Education & Age,Education & Performance. <br />
+• Donut Chart for the distribution of employees by gender and the percentage of a particular gender out of all genders. <br />
+• Bar Chart for education & age-group Distribution of employees. <br />
+• Dot Plot/Scatter Plot for Education & Age,Education & Performance. <br />
 
 Income: <br />
-Dumbbell Chart/Dna Chart to represent Education and Employees by gender. <br />
-Scatter Plot For Age Vs Salary by Departments. <br />
+• Dumbbell Chart/Dna Chart to represent Education and Employees by gender. <br />
+• Scatter Plot For Age Vs Salary by Departments. <br />
 
 Employee Records: <br />
-Table Providing a comprehensive analysis of employees branch,age,salary,departments,position and the numbers of years worked in the company. <br />
+• Table Providing a comprehensive analysis of employees branch,age,salary,departments,position and the numbers of years worked in the company. <br />
 
 Filters: <br />
-Filters are provided at the top to filter records based on the gender,branch,status and location. <br />
+• Filters are provided at the top to filter records based on the gender,branch,status and location. <br />
 
 Summary
 --
