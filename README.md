@@ -48,33 +48,33 @@ Users should be able to filter the list based on any of the available columns.
 
 KPI Used In The Project
 --
-Overview:
-Card Visual For Active Employees.
-Area Chart For the hired & Terminated.
-Stacked Bar Chart For breakdown of employees by department.
-Filled Map & Simple Bar Chart for distribution of employees by their Branch location and headquarters.
+Overview: <br />
+Card Visual For Active Employees. <br />
+Area Chart For the hired & Terminated. <br />
+Stacked Bar Chart For breakdown of employees by department. <br />
+Filled Map & Simple Bar Chart for distribution of employees by their Branch location and headquarters. <br />
 
 Demographics:
-Donut Chart for the distribution of employees by gender and the percentage of a particular gender out of all genders.
-Bar Chart for education & age-group Distribution of employees.
-Dot Plot/Scatter Plot for Education & Age,Education & Performance.
+Donut Chart for the distribution of employees by gender and the percentage of a particular gender out of all genders. <br />
+Bar Chart for education & age-group Distribution of employees. <br />
+Dot Plot/Scatter Plot for Education & Age,Education & Performance. <br />
 
 Income
-Dumbbell Chart/Dna Chart to represent Education and Employees by gender.
-Scatter Plot For Age Vs Salary by Departments.
+Dumbbell Chart/Dna Chart to represent Education and Employees by gender. <br />
+Scatter Plot For Age Vs Salary by Departments. <br />
 
 Employee Records
-Table Providing a comprehensive analysis of employees branch,age,salary,departments,position and the numbers of years worked in the company.
+Table Providing a comprehensive analysis of employees branch,age,salary,departments,position and the numbers of years worked in the company. <br />
 
 Filters
-Filters are provided at the top to filter records based on the gender,branch,status and location.
+Filters are provided at the top to filter records based on the gender,branch,status and location. <br />
 
 Summary
 --
-1.The Overview Section Provides a Detailed breakdown of employees who are active, hired and terminated in the company by department and location.
-2.Demographics Section provides a comprehensive analysis of employees by their gender,age-group,education level and their performance rating.
-3.Income Section Provides a breakdown of pay by gender,age and roles.
-4.The Employee records tab shows comprehensive details of each employee with their respective years of stay in the company.
+1.The Overview Section Provides a Detailed breakdown of employees who are active, hired and terminated in the company by department and location. <br />
+2.Demographics Section provides a comprehensive analysis of employees by their gender,age-group,education level and their performance rating. <br />
+3.Income Section Provides a breakdown of pay by gender,age and roles. <br />
+4.The Employee records tab shows comprehensive details of each employee with their respective years of stay in the company. <br />
 
 
 
