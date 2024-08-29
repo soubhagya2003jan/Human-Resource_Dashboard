@@ -46,8 +46,16 @@ The income analysis section shall focus on salary-related metrics
 Provide a comprehensive list of all employees with necessary information such as name, department, position, gender, age, education, and salary.
 Users should be able to filter the list based on any of the available columns.
 
+KPI Used In The Project
+--
+
+
 Summary
 --
+1.The Overview Section Provides a Detailed breakdown of employees who are active, hired and terminated in the company by department and location.
+2.Demographics Section provides a comprehensive analysis of employees by their gender,age-group,education level and their performance rating.
+3.Income Section Provides a breakdown of pay by gender,age and roles.
+4.The Employee records tab shows comprehensive details of each employee with their respective years of stay in the company.
 
 
 
