@@ -10,11 +10,11 @@ Interact With The Visualization Here [HR Dashboard](https://public.tableau.com/v
 
 Tools Used In This Project <br />
 --
--Tableau <br />
--VizQL <br />
--Excel <br />
--Figma <br />
--Draw.io <br />
+•Tableau <br />
+•VizQL <br />
+•Excel <br />
+•Figma <br />
+•Draw.io <br />
 
 User Story - HR Dashboard
 --
@@ -28,16 +28,21 @@ The task involves displaying the total number of hired, active, and terminated e
 --
 The Demographics section shall offer insights into the composition of the workforce
 
--Present the gender ratio in the company.<br />
--Visualize the distribution of employees across age groups and education levels.<br />
--Show the total number of employees within each age group.<br />
--Show the total number of employees within each education level.<br />
--Present the correlation between employees’s educational backgrounds and their performance ratings.<br />
+•Present the gender ratio in the company.<br />
+•Visualize the distribution of employees across age groups and education levels.<br />
+•Show the total number of employees within each age group.<br />
+•Show the total number of employees within each education level.<br />
+•Present the correlation between employees’s educational backgrounds and their performance ratings.<br />
 
+3.Income
+--
+The income analysis section shall focus on salary-related metrics
 
+•Compare salaries across different education levels for both genders to identify any discrepancies or patterns.<br />
+•Present how the age correlate with the salary for employees in each department.<br />
 
-Employee Records View
-
+4.Employee Records View
+--
 Provide a comprehensive list of all employees with necessary information such as name, department, position, gender, age, education, and salary.
 Users should be able to filter the list based on any of the available columns.
 
