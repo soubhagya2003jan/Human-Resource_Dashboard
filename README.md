@@ -1,5 +1,5 @@
 # Human_Resource_Dashboard 
-Comprhenssive Human Resource Dashboard Created Using Tableau to gain insights on Human resources providing detailed employee records.
+Comprehensive Human Resource Dashboard Created Using Tableau to gain insights on Human resources providing detailed employee records.
 --
 
 Interact With The Visualization Here [HR Dashboard](https://public.tableau.com/views/HRDashboard_17248635992390/HRSummary?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link).
@@ -16,5 +16,13 @@ Tools Used In This Project <br />
 -Figma <br />
 -Draw.io <br />
 
+User Story - HR Dashboard
+--
+
+
+Employee Records View
+
+Provide a comprehensive list of all employees with necessary information such as name, department, position, gender, age, education, and salary.
+Users should be able to filter the list based on any of the available columns.
 
 
