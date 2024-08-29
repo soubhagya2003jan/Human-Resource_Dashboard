@@ -48,7 +48,26 @@ Users should be able to filter the list based on any of the available columns.
 
 KPI Used In The Project
 --
+Overview:
+Card Visual For Active Employees.
+Area Chart For the hired & Terminated.
+Stacked Bar Chart For breakdown of employees by department.
+Filled Map & Simple Bar Chart for distribution of employees by their Branch location and headquarters.
 
+Demographics:
+Donut Chart for the distribution of employees by gender and the percentage of a particular gender out of all genders.
+Bar Chart for education & age-group Distribution of employees.
+Dot Plot/Scatter Plot for Education & Age,Education & Performance.
+
+Income
+Dumbbell Chart/Dna Chart to represent Education and Employees by gender.
+Scatter Plot For Age Vs Salary by Departments.
+
+Employee Records
+Table Providing a comprehensive analysis of employees branch,age,salary,departments,position and the numbers of years worked in the company.
+
+Filters
+Filters are provided at the top to filter records based on the gender,branch,status and location.
 
 Summary
 --
