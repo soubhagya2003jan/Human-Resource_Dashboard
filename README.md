@@ -48,25 +48,25 @@ The income analysis section shall focus on salary-related metrics
 
 KPI Used In The Project
 --
-Overview: <br />
+𝐎𝐯𝐞𝐫𝐯𝐢𝐞𝐰:<br />
 • Card Visual For Active Employees. <br />
 • Area Chart For the hired & Terminated. <br />
 • Stacked Bar Chart For breakdown of employees by department. <br />
 • Filled Map & Simple Bar Chart for distribution of employees by their Branch location and headquarters. <br />
 
-Demographics: <br />
+𝐃𝐞𝐦𝐨𝐠𝐫𝐚𝐩𝐡𝐢𝐜𝐬: <br />
 • Donut Chart for the distribution of employees by gender and the percentage of a particular gender out of all genders. <br />
 • Bar Chart for education & age-group Distribution of employees. <br />
 • Dot Plot/Scatter Plot for Education & Age,Education & Performance. <br />
 
-Income: <br />
+𝐈𝐧𝐜𝐨𝐦𝐞: <br />
 • Dumbbell Chart/Dna Chart to represent Education and Employees by gender. <br />
 • Scatter Plot For Age Vs Salary by Departments. <br />
 
-Employee Records: <br />
+𝐄𝐦𝐩𝐥𝐨𝐲𝐞𝐞 𝐑𝐞𝐜𝐨𝐫𝐝𝐬: <br />
 • Table Providing a comprehensive analysis of employees branch,age,salary,departments,position and the numbers of years worked in the company. <br />
 
-Filters: <br />
+𝐅𝐢𝐥𝐭𝐞𝐫𝐬: <br />
 • Filters are provided at the top to filter records based on the gender,branch,status and location. <br />
 
 Summary
