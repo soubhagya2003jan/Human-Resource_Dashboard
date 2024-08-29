@@ -18,6 +18,11 @@ Tools Used In This Project <br />
 
 User Story - HR Dashboard
 --
+Overview
+--
+The Section Provides High Level View of HR Metrics.
+
+The task involves displaying the total counts of hired, active, and terminated employees, visualizing the annual trends of hired and terminated employees, and presenting a breakdown of employees by department and job titles. It also includes comparing the number of employees between the headquarters in New York and other branches, and showing the geographical distribution of employees by city and state.
 
 
 Employee Records View
